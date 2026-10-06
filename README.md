@@ -16,8 +16,8 @@
 
 I'm an **MSc Artificial Intelligence & Cybersecurity** student at **CHRIST (Deemed to be University), Bengaluru** (Batch 2025–27), specializing in **penetration testing, web application security, and cloud security**.
 
+- 📜 Certified with **CompTIA Security+ Certification**
 - 🔍 Hands-on with **OWASP Top 10** vulnerability identification through labs and real-world projects
-- 📜 **ISC2 Candidate**, with **CompTIA Security+** and **CySA+** certifications (Springboard)
 - 🐧 **Red Hat System Administration I & II** certified
 - 💼 Completed a Cybersecurity internship at **Tinos Software & Security Solutions**
 - 🌱 Currently deepening my skills in offensive security and cloud infrastructure hardening
